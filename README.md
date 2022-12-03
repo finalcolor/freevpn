@@ -30,7 +30,7 @@
 <div align="center">
     <a href="https://apps.apple.com/us/app/id1603206726"><img src="Images/app-store-logo.png" width="20%"></a>
 </div>
-
+<div height="20px"></div>
 <div align="center">
     <img src="Images/1.png" width="24%"/>
     <img src="Images/2.png" width="24%"/>
